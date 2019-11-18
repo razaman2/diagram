@@ -1,1 +1,68 @@
-<mxfile host="www.draw.io" modified="2019-11-18T15:33:31.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.6" etag="z9B8099jfZtt3j9Nrpm-" type="github"><diagram id="wPkzjVk1UTzh-fqEIBTw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-18T15:58:19.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="7mAacU8xHzXq2Nsrrego" version="12.2.6" type="github" pages="1">
+  <diagram id="wPkzjVk1UTzh-fqEIBTw" name="Page-1">
+    <mxGraphModel dx="942" dy="2281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-1" target="FqTx0OsFc3p0Vs38p9QL-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-1" value="when creating a new user" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70.5" width="30" height="61" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-4" value="register user with firebase auth" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="191" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-4" target="FqTx0OsFc3p0Vs38p9QL-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="352" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-4" target="FqTx0OsFc3p0Vs38p9QL-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="352" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-6" target="FqTx0OsFc3p0Vs38p9QL-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-6" value="if successful" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="297" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-12" target="FqTx0OsFc3p0Vs38p9QL-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-12" value="create firestore doc with firebase auth information" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="649.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-14" target="FqTx0OsFc3p0Vs38p9QL-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-14" value="get firestore doc for user" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="297" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-16" target="FqTx0OsFc3p0Vs38p9QL-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-16" target="FqTx0OsFc3p0Vs38p9QL-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-16" value="check if doc is for current company" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="424.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-17" value="prompt user that registration already exists" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="649.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqTx0OsFc3p0Vs38p9QL-18" target="FqTx0OsFc3p0Vs38p9QL-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-18" value="create new firestore doc and set id to id of the existing doc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="528.5" y="649.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="FqTx0OsFc3p0Vs38p9QL-23" value="prompt user of successful user creation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="871" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
