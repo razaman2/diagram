@@ -1,1 +1,85 @@
-<mxfile host="www.draw.io" modified="2019-11-19T16:20:27.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.7" etag="l1Al52ETBvx-27nnPJ6i" type="github"><diagram id="xlL1VnP_ohZqqNtexxLU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-19T17:06:31.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="aA23IV35njTPGO05eql0" version="12.2.7" type="github" pages="1">
+  <diagram id="xlL1VnP_ohZqqNtexxLU" name="Page-1">
+    <mxGraphModel dx="942" dy="2281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="CiCZf5nMORHdhbpC8mJU-2" target="CiCZf5nMORHdhbpC8mJU-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-2" value="equipment cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="35" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="CiCZf5nMORHdhbpC8mJU-3" target="CiCZf5nMORHdhbpC8mJU-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-3" value="install fee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496.5" y="35" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="CiCZf5nMORHdhbpC8mJU-4" target="CiCZf5nMORHdhbpC8mJU-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="248"/>
+              <mxPoint x="714" y="248"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="CiCZf5nMORHdhbpC8mJU-4" target="CiCZf5nMORHdhbpC8mJU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="251"/>
+              <mxPoint x="103" y="251"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="217" as="sourcePoint"/>
+            <mxPoint x="564" y="344" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="455" y="248"/>
+              <mxPoint x="564" y="248"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="218" as="sourcePoint"/>
+            <mxPoint x="304" y="336" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="395" y="251"/>
+              <mxPoint x="304" y="251"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-4" value="sum greater than 0?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="157" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="CiCZf5nMORHdhbpC8mJU-5" target="CiCZf5nMORHdhbpC8mJU-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-5" value="slider defaults to 10%&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="349" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-6" value="warranty field on contract should be set to 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="493" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;" edge="1" parent="1" source="CiCZf5nMORHdhbpC8mJU-13" target="CiCZf5nMORHdhbpC8mJU-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-13" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.add;fillColor=#00dd00;strokeColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="402" y="47.5" width="46" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-22" value="warranty field on contract should be set to&lt;br&gt;&lt;br&gt;slider value * sum&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="18" y="483.5" width="169" height="79" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-25" value="Contract Repair Service&lt;br&gt;&lt;br&gt;on contract should be checked" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="335" width="120" height="88" as="geometry"/>
+        </mxCell>
+        <mxCell id="CiCZf5nMORHdhbpC8mJU-31" value="Contract Repair Service&lt;br&gt;&lt;br&gt;on contract should be unchecked" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="344" width="120" height="79" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
