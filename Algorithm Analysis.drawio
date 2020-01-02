@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-02T06:42:41.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kHOh6ZWTF73PPiITqYaP" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-02T07:12:49.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1iRcBeulND0i_6e70sjk" version="12.4.8" type="github">
   <diagram id="Y39rpOWlz4xw2428_F-x" name="Page-1">
-    <mxGraphModel dx="3438" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="3678" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -8,10 +8,10 @@
           <mxGeometry x="-2200" y="-560" width="387.5" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="uZvXOm2LKyM3_u4rVOQU-46" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=6.4;direction=north;notch=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
-          <mxGeometry x="307.5" y="90" width="10" height="50" as="geometry"/>
+          <mxGeometry x="227.5" y="90" width="10" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="uZvXOm2LKyM3_u4rVOQU-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=6.4;direction=north;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
-          <mxGeometry x="67.5" y="90" width="10" height="50" as="geometry"/>
+          <mxGeometry x="307.5" y="90" width="10" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="uZvXOm2LKyM3_u4rVOQU-33" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
           <mxGeometry y="52.5" width="40" height="15" as="geometry"/>
@@ -19,23 +19,26 @@
         <mxCell id="uZvXOm2LKyM3_u4rVOQU-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
           <mxGeometry x="347.5" y="55" width="40" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="uZvXOm2LKyM3_u4rVOQU-38" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-38" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
           <mxGeometry x="292.5" y="50" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="uZvXOm2LKyM3_u4rVOQU-40" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-40" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
           <mxGeometry x="212.5" y="50" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="uZvXOm2LKyM3_u4rVOQU-41" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
           <mxGeometry x="132.5" y="50" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="uZvXOm2LKyM3_u4rVOQU-44" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-44" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
           <mxGeometry x="52.5" y="50" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="uZvXOm2LKyM3_u4rVOQU-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=6.4;direction=north;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
-          <mxGeometry x="227.5" y="90" width="10" height="50" as="geometry"/>
+          <mxGeometry x="147.5" y="90" width="10" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="uZvXOm2LKyM3_u4rVOQU-61" value="Bubble Sort Algorithm" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="uZvXOm2LKyM3_u4rVOQU-65" vertex="1">
           <mxGeometry x="12.5" width="240" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XAEHC6KbXbvbR4zccbpY-2" value="&lt;h1&gt;Code&lt;/h1&gt;&lt;p&gt;&lt;b&gt;a = green,&amp;nbsp;&lt;span&gt;b = red,&amp;nbsp;&lt;/span&gt;&lt;span&gt;c = blue&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;while (c &amp;lt; length of array) {&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; set a = (length of array - 1)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; set b = (length of array)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; while (a &amp;gt;= c) {&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if(array[a] &amp;gt; array[b]) {&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; swap array[a] with array[b]&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; decrement a&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; decrement b&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if(a &amp;lt; c) {&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; increment c&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;}&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;return array&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2200" y="-399" width="400" height="479" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
