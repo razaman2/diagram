@@ -1,1 +1,52 @@
-<mxfile host="www.draw.io" modified="2020-01-03T00:50:51.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="TupXfkQ7gwa9b-BA_Zor" version="12.4.8" type="github"><diagram id="Y39rpOWlz4xw2428_F-x" name="Page-1">5Vpbj+I2FP41SLsPoFxNeJyB2Uuno22HbTvdl8pJnIs2iSPHDMz++j1OnBASs6UClgyVkDCfT46Pz+fL+SJG5jzdvGc4jx6oT5KRofmbkbkYGYaJpg58CeSlQnTTQRUSstiX2BZYxt+IBDWJrmKfFDuGnNKEx/ku6NEsIx6vMPksZoyuix0ooMnuqDkOyY6FAJYeTkjP7K/Y51GFOnbL+gOJw0iOrOua7HGx9zVkdJXJ8TKakaonxbUbaVpE2Kfr1njm3cicM0p51Uo3c5KIvNYZq557t6e3CZmRjB/ywNPN3Yc5unef3Gf30frmeW7+99iovDzjZCVTMTJQAv5uIxgAhaI1B75rFNxvO2ow7wJuDRSUceLDAKVvIJ+QbGTMobnK6j6E0xxMM7fIWy6KHGeN2/JhJozFo96KlXPehrRjrHLQHaR06Io5/9gJwK4C6014fwb2hFMZMYXvnxdGQfibJpeSIf3txULprBXtcpFs1+Zls7KO4oS0KaqXsfSvJSQL4ZQxNBpUByF+eSvsppdZUP29rCmgalbtHNc20olW9Qx/JodBcfCmZGZk18ehvVDNujZqMmMvriUFh0HFGufKVK3jcpGrE/TaUzNdDHkOg46uORlvy89g46xPuoGH2bv2Diu0zhTyT1h5jPAVy5qT5Vi/x5Z4/48RlN5aVqVU4i+1MuNkI/CIpwkAugiRM/qVzGlCGSCl4DJvgzhJOhBE6MVZCIC9/fWZwmJfjMUKF+UVJ0vAxVBrULaA0WfCgqSUaVHs+6BWYJkIeUeEitKaCNuySyoxeBKC7eo70MyEpoQzWF+a7B2DVJOiUArmsYkksN7KT6s2ilrS05rOpOyVkjds3G+1HzSk/FNLwdWX56dPqfHr/cuD+c/KYn9++v2PsWkptGCHDdCwuWjC9HmMk0fQ4jgLRa8ymy3WXMo5TeUPJucj2gkJ6iYvydHUdAILHAicQ9oJexIkahO7xDnmMc0EMjsVQToy0C5BtmYrCOrzU7/ROIaex19WH98bWfz5/jF8uI9+e+d/2Yz1Hjv2CTcLTuJQpNAr0wuASFbs4eRGdqSwG/byrNohvWwrOPkBAY7V2SG2rtohfQKMcxHQf1WCrpmAKRoaAWaPAPOaCUDOBQlQ3hAW+vcbop35+oWnSImPi6jJz+G5ri+cdBOKV8+T6mWvUX0LtyI52gRZoi1ShyZlM2ZwNVW3QgZFbSQKXcq9SHG/jAwzcDzieb3FAj2uY1v2ya59rbunrGmfUl1BqX02SmdXSqmPiRMoKUWeQ9zgeik1++fkK6vjTlbGgYHRLeOmkwMLOftc/Dg9fmaDvseOLKVn+qxO+XBuMq3HQX+TXBMHswFy8NoUzbE3xXSAHPQ1v3PNHOj2ADmwr7UEs4njW6oSzDFcE6GTkWpZXVIvXoSh/uH2MSsEH1S8cF5C9uDrJgkpi3mUnmHPVfXYMTsuoBlfypD26df/yJTiGlK8+DzV/oOf27/XlH2t/y+Zd98B</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-03T02:33:54.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ZR4eH72XufOx667UfRET" version="12.4.8" type="github">
+  <diagram id="Y39rpOWlz4xw2428_F-x" name="Page-1">
+    <mxGraphModel dx="3678" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="XAEHC6KbXbvbR4zccbpY-2" value="&lt;h1&gt;Code&lt;/h1&gt;&lt;p&gt;&lt;b&gt;sorted = green, unsorted&amp;nbsp;&lt;span&gt;= red, current&lt;/span&gt;&lt;span&gt;&amp;nbsp;= blue&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;current = 1&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;sorted = 0&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;unsorted = 1&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;while(current &amp;lt; length of array) {&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; while(&lt;/span&gt;&lt;/b&gt;&lt;b&gt;array[sorted] &amp;gt; array[unsorted]&lt;/b&gt;&lt;b&gt;&lt;span&gt;) {&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; swap(array[sorted] with array[unsorted])&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; sorted--&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; unsorted--&lt;br&gt;&lt;/b&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; sorted = current&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; current++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; unsorted = current&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;}&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;return array&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2200" y="-360" width="400" height="479" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-1626" y="-505" width="40" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="RJuIG2niTKRgMKhPFdZx-1" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="-510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="RJuIG2niTKRgMKhPFdZx-2" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1760" y="-510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="RJuIG2niTKRgMKhPFdZx-3" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1680" y="-510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-46" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=6.4;direction=north;notch=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-2064.5" y="-470" width="10" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=6.4;direction=north;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2064.5" y="-470" width="10" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-33" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-2212" y="-507.5" width="40" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-38" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1919.5" y="-510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-40" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1999.5" y="-510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-41" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2079.5" y="-510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-44" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2159.5" y="-510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=6.4;direction=north;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-2144.5" y="-470" width="10" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="uZvXOm2LKyM3_u4rVOQU-61" value="Insertion Sort Algorithm" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-2199.5" y="-560" width="240" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
